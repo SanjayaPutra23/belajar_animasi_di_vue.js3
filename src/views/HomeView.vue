@@ -6,14 +6,28 @@ const showText = ref(false);
 
 <template>
 	<main>
-		<Transition name="fade">
-			<h1 v-if="showText">Hello World</h1>
-		</Transition>
-		<button @click="showText = !showText">Toggle</button>
+		<div class="container">
+			<Transition name="fade">
+				<h1 v-if="showText">Hello World</h1>
+				<h1 v-else="showText">Goodbye!</h1>
+			</Transition>
+			<button @click="showText = !showText">Toggle</button>
+		</div>
 	</main>
 </template>
 
 <style scoped>
+.container {
+	position: relative;
+}
+
+h1 {
+	position: absolute;
+}
+
+button {
+	margin-top: 50px;
+}
 .fade-enter-from {
 	opacity: 0;
 }
