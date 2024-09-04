@@ -1,11 +1,8 @@
 <template>
 	<div class="about">
-		<h1>This is an about page</h1>
+		<h1>Tentang Aplikasi To-Do</h1>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quos
-			iste, quaerat nemo doloribus unde beatae, vero odio, dolor ipsum maxime
-			totam quidem nostrum consequuntur voluptate aliquam doloremque blanditiis
-			temporibus.
+			Selamat datang di Vue.js 3, aplikasi to-do sederhana yang dirancang untuk membantu Anda tetap terorganisir dan produktif dalam menjalani hari. Aplikasi ini memungkinkan Anda mencatat tugas-tugas penting, menetapkan prioritas, dan melacak kemajuan dengan mudah.
 		</p>
 	</div>
 </template>
