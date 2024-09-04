@@ -1,29 +1,12 @@
-# todo-animation
+1. Tujuan Umum dan Khusus Pelatihan
+  
+  • Memahami prinsip dasar animasi di Vue.js.
+  • Menguasai teknik-teknik dasar dan lanjutan dalam membuat animasi di Vue 3.
+  • Mampu mengimplementasikan animasi yang efektif dan menarik dalam aplikasi web.
 
-This template should help get you started developing with Vue 3 in Vite.
+2. Silabus
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+  • Pengenalan Animasi di Vue.js: Memahami dasar-dasar animasi dan mengapa animasi penting dalam pengembangan web.
+  • Fitur Animasi di Vue 3: Eksplorasi fitur-fitur animasi yang tersedia di Vue 3.
+  • Transition dan Animation: Mempelajari cara menggunakan transition dan animation di Vue.js.
+  • Keyframe Animations: Menerapkan animasi keyframe untuk efek yang lebih kompleks.
